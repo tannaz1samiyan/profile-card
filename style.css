@@ -13,8 +13,8 @@ body{
     font-family:'Nunito Sans';
 }
 .container{
-    width: 220px;
-    height: 230px; 
+    width: 320px;
+    height: 330px; 
     display: flex;
     justify-content: center;
     align-items: center;
