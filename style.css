@@ -42,8 +42,8 @@ body{
     
 }
 .image{
-  width: 100px; 
-  height: 100px;
+  width: 120px; 
+  height: 120px;
   border: 2px solid white;
   background-image: url(./img/c1d18ee1-9873-45d6-b79c-338cf52bfdca.jpg);
   background-position: center;
