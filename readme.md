@@ -47,10 +47,10 @@ function helloWord(){
 ```
 ---
 
-| firsname      |lastname |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| firsname      |lastname   | age     |
+| ----------- | ----------- |---------
+| Header      | Title       |18       |
+| Paragraph   | Text        |14       |
 
 ---
 
